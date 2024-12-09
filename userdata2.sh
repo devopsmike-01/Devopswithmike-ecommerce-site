@@ -10,11 +10,12 @@ sudo yum install httpd -y
 sudo yum install git -y
 
 
+
 # Clone the repository
-git clone https://github.com/Michaelgwei86/wanda-ecommerce-web-app.git
+git clone https://github.com/devopsmike-01/Devopswithmike-ecommerce-site.git 
 
 # Copy the files inside the cloned folder to the desired location
-sudo cp -r wanda-ecommerce-web-app/server2/* /var/www/html/
+sudo cp -r Devopswithmike-ecommerce-site/server2/* /var/www/html/
 
 # Start and enable the HTTP server
 sudo systemctl start httpd
