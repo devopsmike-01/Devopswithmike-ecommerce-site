@@ -1,6 +1,8 @@
 # Ecommerce Web App
-
 This repository contains a simple ecommerce web application designed to showcase the advantages of Elastic Load Balancer (ELB) and Auto Scaling in creating a highly available and secured network environment.
+- This repo is maintained by [Devops with Mike](https://www.youtube.com/@DevOpsWithMike0/videos/)
+- For interview preparation, use this platform [Wandaprep](http://www.wandaprep.com/)
+- Visit my website for more inquiries and support [DevOpswithMike](https://devopswithmike.tech/).
 
 ## Features
 
